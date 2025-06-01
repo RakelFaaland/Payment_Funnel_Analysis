@@ -1,5 +1,7 @@
 # SaaS Subscription Payment Funnel Analysis in SQL
 
+[View HEX Data Science Notebook](https://app.hex.tech/big-sql-energy/hex/01972248-0eb0-7004-a896-e9cd191f988e/draft/logic)
+
 ## Executive Summary
 
 The goal of each subscription is to follow the "happy path”, in order to smoothly complete the payment and generate revenue for the company. Using SQL, I track how successful each subscription is throughout the funnel, determining the furthest point they reach before encountering an error or otherwise stopping the process. 
