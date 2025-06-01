@@ -47,6 +47,8 @@ The observed users journeys found in the data are the following:
 - **3rd Party Vendor Error w/ Payment Processing:** Subscription has an error after attempting to reach status 4.
 - **Subscriptions Not Even Starting the Payment Process:** Subscriber has not even opened the payment widget, so are not in the payment_status_log table.
 
+![Payment Funnel](https://github.com/RakelFaaland/Payment_Funnel_Analysis/blob/main/Subscription%20Payment%20Funnel.png?raw=true)
+
 After identifying that only 34% of initiated paid subscriptions complete the payment process successfully, I recommend the following changes to increase the workflow completion rate: 
 
 - Implement a visible customer service chat feature at friction points in the payment funnel.
