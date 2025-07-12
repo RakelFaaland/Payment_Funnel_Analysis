@@ -1,6 +1,6 @@
 # SaaS Subscription Payment Funnel Analysis in SQL
 
-[View HEX Data Science Notebook](https://app.hex.tech/big-sql-energy/hex/01972248-0eb0-7004-a896-e9cd191f988e/draft/logic)
+[View HEX Data Science Notebook](https://app.hex.tech/big-sql-energy/app/Payment-Funnel-Analysis---SQL-0303lOkrFmrnM8fNaIo20s/latest)
 
 ## Executive Summary
 
